@@ -1,1 +1,1 @@
-# amcart_frontend
+# SSE Promotion Assignment - ECart Frontend
