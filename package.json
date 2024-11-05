@@ -1,8 +1,8 @@
 {
-  "name": "amcart-E-Commerce",
+  "name": "ecart",
   "version": "1.0.0",
-  "description": "AmCart Application E-Commerce",
-  "author": "Manish Kumar",
+  "description": "ECart Application",
+  "author": "Anant Vardhan",
   "license": "MIT",
   "private": true,
   "scripts": {
