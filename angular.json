@@ -21,7 +21,7 @@
 							"rxjs-compat",
 							"aws-amplify"
 						],
-						"outputPath": "dist/amcart-E-Commerce",
+						"outputPath": "dist/ecart-frontend",
 						"index": "src/index.html",
 						"main": "src/main.ts",
 						"polyfills": "src/polyfills.ts",
